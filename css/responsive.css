@@ -1,0 +1,265 @@
+
+@media(max-width:991px) and (min-width:768px){
+    .banner_text h1{
+        font-size: 37px;
+        letter-spacing: 0px;
+    }
+    .btn_price{
+        padding: 5px 7px;
+    }
+    .selles p{
+        font-size: 13px;
+    }
+    .product_part::before {
+        height: 15%;
+        width: 40%;
+        clip-path: circle(96px at 5% 0%);
+    }
+    .icon ul li i{
+        display: none;
+    }
+    .icon ul{
+        display: inline-block;
+    }
+    .collection_price{
+        margin-bottom: 20px;
+    }
+    .main_content{
+        display: inline-block;
+    }
+    .select{
+        margin: 15px 0;
+    }
+    .select select{
+        padding: 3px 12px;
+    }
+    .discount_section h1{
+        font-size: 50px;
+    }
+    .discount_section h3{
+        font-size: 23px;
+    }
+    .btn_offer {
+        padding: 9px 15px;
+        font-size: 16px;
+        margin-top: 25px;
+    }
+    .blog_text h2 {
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+    .btn_read {
+        margin-left: 25px;
+        margin-top: 15px;
+    }
+    .product_menu {
+        width: 65%;
+    }
+    .product_text h3 {
+        font-size: 20px;
+        padding: 7px 0;
+    }
+    .product_text ul li i{
+        font-size: 14px;
+    }
+    .product_text{
+        margin-bottom: 20px;
+    }
+    .newsletter_subscription form input {
+        width: 64%;
+    }
+    .sellers_product::before {
+        height: 36%;
+        width: 46%;
+        clip-path: circle(93px at 5% 0%);
+    }
+    .seller_icon {
+        left: 34px;
+    }
+    .seller_icon h5 {
+        font-size: 15px;
+    }
+    .t-icon ul li {
+        margin-right: 5px;
+        padding: 4px 8px;
+    }
+    .collection_icon ul li {
+        padding: 6px 10px;
+    }
+    .collection_icon ul li i{
+        font-size: 20px;
+    }
+    .newsletter_subscription h1 {
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+    .seller_text h4 {
+        font-size: 22px;
+        letter-spacing: 0px;
+    }
+    .footer_logo a {
+        font-size: 22px;
+    }
+    .contact_menu h4 {
+        font-size: 24px;
+    }
+    .footer_icon form input {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+}
+@media(max-width:767px) and (min-width:576px){
+    .banner_text h1{
+        font-size: 50px;
+    }
+    .about_content h1 {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .btn_price {
+        margin-bottom: 25px;
+    }
+    .text h3 {
+        font-size: 30px;
+    }
+    .collection_price {
+        margin-bottom: 25px;
+    }
+    .icon ul li i {
+        font-size: 24px;
+    }
+    .price_bar h5 {
+        font-size: 26px;
+    }
+    .main_content {
+        margin-bottom: 25px;
+    }
+    .img_price span {
+        font-size: 24px;
+        font-weight: 600;
+    }
+    .discount_section h1 {
+        font-size: 50px;
+        margin-bottom: 30px;
+    }
+    .discount_section h3 {
+        font-size: 22px;
+    }
+    .product_menu {
+        width: 85%;
+    }
+    .product_text {
+        margin-bottom: 25px;
+    }
+    .newsletter_subscription h1 {
+        font-size: 40px;
+    }
+    .footer_logo p {
+        margin-bottom: 30px;
+    }
+    .link_menu h4 {
+        margin-bottom: 18px;
+    }
+    .contact_menu h4 {
+        margin-bottom: 15px;
+        margin-top: 22px;
+    }
+    .footer_icon h4{
+        margin-bottom: 15px;
+        margin-top: 22px;
+    }
+    .footer_icon form input{
+        margin-bottom: 10px;
+    }
+}
+
+@media(max-width:575px) and (min-width:320px){
+    .banner_text h1{
+        font-size: 35px;
+    }
+    .banner_text p {
+        font-size: 15px;
+    }
+    .about_content h1 {
+        font-size: 38px;
+        margin: 15px 0;
+    }
+    .btn_price {
+        margin-bottom: 20px;
+    }
+    .new_collection h1 {
+        font-size: 32px;
+        letter-spacing: 0px;
+    }
+    .collection_price {
+        margin-bottom: 25px;
+    }
+    .main_content{
+        margin-bottom: 25px;
+    }
+    .discount_section h3 {
+        font-size: 18px;
+    }
+    .discount_section h1 {
+        font-size: 36px;
+        margin-bottom: 30px;
+    }
+    .product_menu {
+        display: none;
+    }
+    .product_text {
+        margin-bottom: 25px;
+    }
+    .newsletter_subscription h1 {
+        font-size: 33px;
+    }
+    .newsletter_subscription form input {
+        margin-bottom: 15px;
+    }
+    .link_menu h4 {
+        margin-top: 25px;
+    }
+    .contact_menu h4 {
+        margin-top: 25px;
+    }
+    .footer_icon h4 {
+        margin-top: 25px;
+    }
+    .footer_icon form input {
+        margin-bottom: 15px;
+    }
+}
+
+@media(max-width:1200px) and (min-width:991px){
+    .banner_text h1{
+        font-size: 50px;
+    }
+    .icon ul li i{
+        display: none;
+    }
+    .main_content{
+        margin-bottom: 25px;
+    }
+    .product_menu{
+        width: 40%;
+    }
+    .product_text {
+        margin-bottom: 28px;
+    }
+    .newsletter_subscription h1{
+        font-size: 28px;
+    }
+    .newsletter_subscription p{
+        font-size: 15px;
+    }
+
+}
+
+@media(max-width:768px){
+    .cart_shopping{
+        display: none;
+    }
+    .top_nav{
+        display: inherit;
+    }
+}
